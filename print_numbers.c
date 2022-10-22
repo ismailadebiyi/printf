@@ -1,25 +1,3 @@
-print_numbers.c.txt
-Who has access
-A
-System properties
-Type
-Text
-Size
-1 KB
-Storage used
-1 KB
-Location
-print_f
-Owner
-Antony Bahati
-Modified
-17 Oct 2022 by Antony Bahati
-Opened
-05:10 by me
-Created
-17 Oct 2022
-No description
-Viewers can download
 #include "main.h"
 
 /**

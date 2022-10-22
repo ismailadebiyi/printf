@@ -1,25 +1,3 @@
-print_chars.c.txt
-Who has access
-A
-System properties
-Type
-Text
-Size
-2 KB
-Storage used
-2 KB
-Location
-print_f
-Owner
-Antony Bahati
-Modified
-17 Oct 2022 by Antony Bahati
-Opened
-05:04 by me
-Created
-17 Oct 2022
-No description
-Viewers can download
 #include "main.h"
 #include <stdlib.h>
 
